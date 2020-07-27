@@ -5,7 +5,7 @@ Deploying Rails apps is really easy, but after reading many articles and tutoria
 
 # Index
 
-> ‣ [Rails + Nginx + Puma](https://github.com/nardonykolyszyn/capistrano-deployment-guides)
+> ‣ {0.1} [Rails + Nginx + Puma](https://github.com/nardonykolyszyn/capistrano-deployment-guides)
 
 # Contributions
 
