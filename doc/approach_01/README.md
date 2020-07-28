@@ -36,7 +36,7 @@ Basically, We will create **Puma** socket to connect to our Nginx web server, th
   ‣ [Why and How I Replaced RVM with RBENV](https://dev.to/krtb/why-and-how-i-replaced-rvm-with-rbenv-23ad)
 
 
-## Installation
+## Installation 🖨🎁
 ---------------
 
 > NOTE: This process is completely agnostic, so, I will avoid cloud based services configurations processes such as AWS, GCP or Azure. This is made to work on basically any server.
@@ -134,7 +134,7 @@ Go to ```config/deploy/production.rb``` and replace the current content with [pr
 
 Once you finish your env configuration you could iterate same process for **staging**, **acceptance** or any other environment you have, ready for next stage?
 
-## Deployment
+## Deployment 💎
 -------------
 
 > Now we configured our project, it's time to deploy our application, however, there are couple steps you must follow first.
@@ -174,7 +174,7 @@ $ cap production puma:config
 
 ----------------------------
 
-### Ready to deploy!
+### Ready to deploy! 🍾🎉
 
 Now we have everything ready, you should be able to run:
 
@@ -193,7 +193,7 @@ $ bundle exec cap production puma:restart
 
 See more commands here https://github.com/seuros/capistrano-puma.
 
-# Troubleshooting
+# Troubleshooting 🔧⚙
 
 ‣ ```.env``` missing
 
